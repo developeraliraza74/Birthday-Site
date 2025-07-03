@@ -33,7 +33,7 @@ export default function BirthdayCelebration() {
         <div className="flex justify-center gap-2 flex-col items-center sm:text-center">
 
           <div className="flex justify-center gap-2 flex-row items-center sm:text-center flex-wrap ">
-            <h3 className="text-2xl sm:text-2xl font-bold text-left text-pink-600 mt-2">To a Person I can't Even Meet! <br />  <span className="text-left sm:text-center"><span className="text-blue-300">Zidi</span> <br /> <span className="text-red-900 ps-7">Moody 🙄</span> <br /> <span className="text-green-700 ps-7">Caring</span> <br /><span className="text-orange-700 ps-7">Brave</span></span></h3>
+            <h3 className="text-2xl sm:text-2xl font-bold text-left text-pink-600 mt-2">To a Person I can't Even Meet! <br />  <span className="text-left sm:text-center"><span className="text-blue-300">Zidi</span> <br /> <span className="text-red-900 ps-7">Moody 🙄</span> <br /> <span className="text-red-900 ps-7">Foody 🍔😊</span> <br /> <span className="text-green-700 ps-7">Caring</span> <br /><span className="text-orange-700 ps-7">Brave</span></span></h3>
             <Image
               src="/image.png"
               alt="Birthday"
