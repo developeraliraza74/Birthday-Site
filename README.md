@@ -7,7 +7,7 @@ It's designed as a personal and emotional way to wish someone special — when y
 
 ## 🧠 Project Idea
 
-> **POV:** It's her birthday, but you can't meet — so you build something special instead.
+> **POV:** It's her birthday, but I can't meet — so you build something special instead.
 
 The website features:
 
@@ -53,19 +53,15 @@ npm install
 npm run dev
 ```
 
-Make sure to update the target date in `Home` component if you want to reuse this.
-
 ---
 
 ## 🌐 Connect with Me
 
 Follow for more such creative and code-based content!
 
-- 📸 **Instagram**: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎥 **YouTube**: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 **Twitter/X**: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 **LinkedIn**: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+- 📸 **Instagram**: [@developeraliraza](https://instagram.com/developeraliraza)
+- 💼 **LinkedIn**: [Developer Ali Raza](https://linkedin.com/in/developeraliraza)
 
 ---
 
-Thanks for checking out this project! If you liked it, consider giving it a ⭐️ on GitHub and sharing the reel ❤️
+Thanks for checking out this project! If you liked it, consider giving it a ⭐️ on GitHub
