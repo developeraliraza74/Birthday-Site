@@ -140,6 +140,20 @@ export default function BirthdayCelebration() {
           </p>
           <div className="flex justify-center items-center gap-2">
             <p className="text-pink-600 font-medium">Let's always stay like this... together, forever 🫶</p>
+             <a
+              href={instagramDmLink}
+              target="_blank"
+              rel="noopener noreferrer"
+            // You can add some style to make it look nice!
+             style={{
+              color: '#E1306C', // A nice Instagram-like color
+              fontWeight: 'bold',
+              textDecoration: 'none',
+              fontSize: '18px'
+             }}
+          >
+      Let's Thanks
+    </a>
           </div>
         </div>
       </motion.div>
