@@ -141,7 +141,7 @@ export default function BirthdayCelebration() {
           <div className="flex justify-center items-center gap-2">
             <p className="text-pink-600 font-medium">Let's always stay like this... together, forever 🫶</p>
              <a
-              href={instagramDmLink}
+              href="https://ig.me/m/developeraliraza"
               target="_blank"
               rel="noopener noreferrer"
             // You can add some style to make it look nice!
